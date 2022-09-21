@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/test_solitaire.cpp.o CMakeFiles/test.dir/ViewSolitaire.cpp.o CMakeFiles/test.dir/ModelSolitaire.cpp.o CMakeFiles/test.dir/ControllerSolitaire.cpp.o CMakeFiles/test.dir/Card.cpp.o CMakeFiles/test.dir/Deck.cpp.o  -o test  -lsfml-graphics -lsfml-window -lsfml-system 

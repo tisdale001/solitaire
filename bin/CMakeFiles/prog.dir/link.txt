@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/prog.dir/MainSolitaire.cpp.o CMakeFiles/prog.dir/ViewSolitaire.cpp.o CMakeFiles/prog.dir/ModelSolitaire.cpp.o CMakeFiles/prog.dir/ControllerSolitaire.cpp.o CMakeFiles/prog.dir/Card.cpp.o CMakeFiles/prog.dir/Deck.cpp.o CMakeFiles/prog.dir/AnimationWrapper.cpp.o  -o prog  -lsfml-graphics -lsfml-window -lsfml-system 
